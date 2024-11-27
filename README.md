@@ -3,7 +3,7 @@
 ### Project 1
 
 - Description
-- [Links](https://www.youtube.com/watch?v=RdZqWiYCQsg&t=254s)
+- [Links](https://github.com/SenuriBandara)
 
 ### Project 2
  - Description
