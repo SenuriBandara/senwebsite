@@ -3,7 +3,7 @@
 ### Project 1
 
 - Description
-- Links
+- [Links]{https://github.com/SenuriBandara}
 
 ### Project 2
  - Description
